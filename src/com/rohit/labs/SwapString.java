@@ -4,6 +4,7 @@ public class SwapString {
 
 	public static void main(String[] args) {
 		//hie this is demo for git
+		//i m in branch2
 		
 		//wap to swap string without using third/temp variable.
 		
